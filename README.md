@@ -1,4 +1,4 @@
-## <div align="center">Skye Waddell<img src="https://drive.google.com/uc?id=14xqv5Vq1iSHgQblRQwoVmMGU7XPq05u4" style="width:20px"/></div>
+## <div align="center">Skye Waddell <img src="https://drive.google.com/uc?id=14xqv5Vq1iSHgQblRQwoVmMGU7XPq05u4" style="width:20px"/></div>
 
 <br>
 <div style ="display:flex;" align="center">
@@ -10,7 +10,7 @@
 ### <div align="center">I'm a digital creator and fullstack developer. I have worked on many projects of different genres, and this is my portfolio featuring my digital advents and creations. Thank you for taking the time to visit. 🤖</div>
 
 - 🔭 I love to create and develop front-end content such as Games, Apps, Music Production & Mixing, Video Editing, Youtube & Streaming, Graphic Design, 
-- 😺 I've always enjoyed art and animation since early Newgrounds Flash Animation. Manga, and 3D animation are also skills I have worked on in past.
+- 😺 I've always enjoyed art and animation since early Newgrounds Flash Animation. Manga, and 3D animation are also skills I have worked on in the past.
 - 🌱 My passion for front-end dev naturally makes me learn about back-end like Networking, Servers, Programming, Websites and more.
 - 👾 I have most experience using: Adobe Suite, Gamemaker Studio, FL Studio, Aseprite, Clip Studio, Sony Vegas, NodeJS, MongoDB, MySQL.
 - 👽 I have experience developing apps and games for all OS (Steam, Windows, Mac, Linux, Android, and iOS)
@@ -79,16 +79,16 @@
   
   
 <br/>  
-<br>
+
 <div align="center" style="display:inline-block;flex-wrap:nowrap";>
 
 
-## Most Used Programming Languages
+## GitHub Stats
 
+[![Skyes GitHub stats](https://github-readme-stats.vercel.app/api?username=skyelynwaddell)](https://github.com/skyelynwaddell/github-readme-stats)
   
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=skyelynwaddell&layout=compact)](https://github.com/skyelynwaddell/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SKYELYNWADDELL)
   
-
 ## Connect with me
 <div align="center">
 <a href="https://github.com/skyelynwaddell" target="_blank">
