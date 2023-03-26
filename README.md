@@ -19,7 +19,10 @@
 
 <br/>
 <div align="center">
-  
+
+## Games & Applications
+  <a href="https://play.google.com/store/apps/details?id=skyestuff.itch.ioundeadsurvivor.skyegames.undeadsurvivor" target="_blank"><img src="https://lh3.googleusercontent.com/zto_sEx7-zSg4hwC6b5kwl5x6zt2z7UKCSmecq2EpfoDCxYTJNsJPMS83xtAuiZADSw" alt="Undead Survivor" height="100" />
+<br>Undead Survivor
   
 ## Tech Stack
 
@@ -28,20 +31,20 @@
 
 <h3 align="center">Frontend </h3>
 <div align="center">  
-<a href="https://gamemaker.io/en" target="_blank"><img style="margin: 10px" src="https://coal.gamemaker.io/sites/5d75794b3c84c70006700381/theme/images/og/thumbnail_gm_logo.png?1677843242" alt="GMS" height="50" />
-<h5 align="center">GameMaker Studio</h5>
+<a href="https://gamemaker.io/en" target="_blank"><img style="margin: 10px" src="https://coal.gamemaker.io/sites/5d75794b3c84c70006700381/theme/images/og/thumbnail_gm_logo.png?1677843242" alt="GMS" height="50" /></a>
+  <br>GameMaker</br><br>
   
 <a href="https://adobe.com/" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Adobe_Creative_Cloud_rainbow_icon.svg/480px-Adobe_Creative_Cloud_rainbow_icon.svg.png?20221002235840" alt="Adobe Creative Suite" height="50" /></a>  
-<h5 align="center">Adobe Creative Suite</h5>
+  Adobe Suite</br>
 
 <a href="https://www.aseprite.org" target="_blank"><img style="margin: 10px" src="https://user-images.githubusercontent.com/105599773/227793892-34a4144b-6161-469e-adf2-2e5b00c466cf.png" alt="Aseprite" height="50" /></a>  
-<h5 align="center">Aseprite</h5>
+Aseprite</br>
   
 <a href="https://www.image-line.com" target="_blank"><img style="margin: 10px" src="https://www.pngfind.com/pngs/m/4-49885_fl-studio-logo-png-transparent-png.png" alt="FL Studio" height="50" /></a>  
-<h5 align="center">FL Studio</h5>
+FLStudio</br>
  
 <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a> 
-<h5 align="center">HTML5</h5>
+<br>HTML5
   
   
 </div>
@@ -51,13 +54,13 @@
 <h3 align="center">Backend </h3>
 <div align="center">  
 <a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" /></a>  
-<h5 align="center">NodeJS & Express</h5>
+  <br>NodeJS</br><br>
   
 <a href="https://www.mongodb.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" /></a>
-<h5 align="center">MongoDB</h5>
+MongoDB</br>
   
 <a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" /></a>  
-<h5 align="center">MySQL</h5>
+MySQL</br><br>
   
 </div>
 </td><td valign="top" width="33%">
@@ -65,13 +68,13 @@
 <h3 align="center">Language </h3>
 <div align="center">  
 <a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
-<h5 align="center">Javascript</h5>
+  <br>Javascript</br><br>
 
-<a href="https://gamemaker.io/en" target="_blank"><img style="margin: 10px" src="https://coal.gamemaker.io/sites/5d75794b3c84c70006700381/theme/images/og/thumbnail_gm_logo.png?1677843242" alt="GMS" height="50" />
-<h5 align="center">GML</h5>
+<a href="https://gamemaker.io/en" target="_blank"><img style="margin: 10px" src="https://coal.gamemaker.io/sites/5d75794b3c84c70006700381/theme/images/og/thumbnail_gm_logo.png?1677843242" alt="GMS" height="50" /></a>
+  <br>GML</br>
   
 <a href="https://www.php.net/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/php-original.svg" alt="PHP" height="50" /></a>  
-<h5 align="center">PHP</h5>
+PHP</br><br>
     
 </div>
   
