@@ -119,5 +119,4 @@ PHP</br><br>
 
 ------
 
-[Skye Wadell](https://github.com/skyelynwaddell)
-Last Edited 03/25/2023
+[Skye Wadell](https://github.com/skyelynwaddell) Thanks for reading if you've made it this far! Below are my Repo's! 🌸
