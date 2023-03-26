@@ -15,7 +15,6 @@
 - 🧠 I have large knowledge base in digital Music Production and Mixing vocals as well how to operate many industry standard VST's like AutoTune.
 - ⚡ Fun fact: My Dad bought a family computer in the early 2000s and never limited my computer play time like most of my friends. For this I am thankful    ~ it has been a constant rabbit hole of learning and creating my entire life. 
 
-<br/>
 <div align="center">
 
 ## Games & Applications
@@ -77,9 +76,6 @@ PHP</br><br>
 </div>
   
 </td></tr></table>
-  
-  
-<br/>  
 
 <div align="center" style="display:inline-block;flex-wrap:nowrap";>
 
@@ -120,8 +116,6 @@ PHP</br><br>
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=skyelynwaddell&&style=flat-square" align="center" />
 </div>   
-
-<br />
 
 ------
 
