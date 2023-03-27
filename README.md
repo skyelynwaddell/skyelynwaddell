@@ -18,7 +18,8 @@
 <div align="center">
 
 ## Games & Applications
-  <a href="https://play.google.com/store/apps/details?id=skyestuff.itch.ioundeadsurvivor.skyegames.undeadsurvivor" target="_blank"><img src="https://lh3.googleusercontent.com/zto_sEx7-zSg4hwC6b5kwl5x6zt2z7UKCSmecq2EpfoDCxYTJNsJPMS83xtAuiZADSw" alt="Undead Survivor" height="100" />
+  
+  <a href="https://skyestuff.itch.io/undead-survivor" target="_blank"><img src="https://lh3.googleusercontent.com/zto_sEx7-zSg4hwC6b5kwl5x6zt2z7UKCSmecq2EpfoDCxYTJNsJPMS83xtAuiZADSw" alt="Undead Survivor" height="100" />
 <br>Undead Survivor
   
 ## Tech Stack
