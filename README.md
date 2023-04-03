@@ -31,7 +31,7 @@
 <div align="center">  
 
 <a href="https://gamemaker.io/en" target="_blank"><img style="margin: 10px" src="https://coal.gamemaker.io/sites/5d75794b3c84c70006700381/theme/images/og/thumbnail_gm_logo.png?1677843242" alt="GMS" height="50" /></a>
-  <br>GameMaker</br>
+  GameMaker</br>
   
 <a href="https://adobe.com/" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Adobe_Creative_Cloud_rainbow_icon.svg/480px-Adobe_Creative_Cloud_rainbow_icon.svg.png?20221002235840" alt="Adobe Creative Suite" height="50" /></a>  
   Adobe Suite</br>
