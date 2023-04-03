@@ -7,11 +7,11 @@
 
 ### <div align="center">I'm a digital creator and fullstack developer. I have worked on many projects of different genres, and this is my portfolio featuring my digital advents and creations. Thank you for taking the time to visit. 🤖</div>
 
-- 🔭 I love to create and develop front-end content such as Games, Apps, Music Production & Mixing, Video Editing, Youtube & Streaming, Graphic Design, 
+- 🔭 I love to create and develop front-end content such as Games, Apps, Music Production & Mixing, Video Editing, Youtube & Streaming, Graphic Design.
 - 😺 I've always enjoyed art and animation since early Newgrounds Flash Animation. Manga, and 3D animation are also skills I have worked on in the past.
 - 🌱 My passion for front-end dev naturally makes me learn about back-end like Networking, Servers, Programming, Websites and more.
 - 👾 I have most experience using: Adobe Suite, Gamemaker Studio, FL Studio, Aseprite, Clip Studio, Sony Vegas, NodeJS, MongoDB, MySQL.
-- 👽 I have experience developing apps and games for all OS (Steam, Windows, Mac, Linux, Android, and iOS)
+- 👽 I have experience developing apps and games for all OS. (Steam, Windows, Mac, Linux, Android, and iOS)
 - 🧠 I have large knowledge base in digital Music Production and Mixing vocals as well how to operate many industry standard VST's like AutoTune.
 - ⚡ Fun fact: My Dad bought a family computer in the early 2000s and never limited my computer play time like most of my friends. For this I am thankful    ~ it has been a constant rabbit hole of learning and creating my entire life. 
 
@@ -73,6 +73,9 @@ MySQL</br><br>
   
 <a href="https://www.php.net/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/php-original.svg" alt="PHP" height="50" /></a>  
 PHP</br><br>
+
+<a href="https://en.m.wikipedia.org/wiki/CSS" target="_blank"><img style="margin: 10px" src="https://en.m.wikipedia.org/wiki/File:CSS3_logo_and_wordmark.svg" alt="CSS" height="50" /></a>  
+CSS</br><br>
     
 </div>
   
