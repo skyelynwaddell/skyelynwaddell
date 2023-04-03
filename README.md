@@ -29,6 +29,7 @@
 
 <h3 align="center">Frontend </h3>
 <div align="center">  
+
 <a href="https://gamemaker.io/en" target="_blank"><img style="margin: 10px" src="https://coal.gamemaker.io/sites/5d75794b3c84c70006700381/theme/images/og/thumbnail_gm_logo.png?1677843242" alt="GMS" height="50" /></a>
   <br>GameMaker</br><br>
   
@@ -42,7 +43,7 @@ Aseprite</br>
 FLStudio</br>
 
 
-<a href="" target="_blank"><img style="margin: 10px" src="" alt="" height="50" /></a></br>
+</div>
 </div>
 
 </td><td valign="top" width="33%">
