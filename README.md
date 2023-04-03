@@ -42,10 +42,6 @@ Aseprite</br>
 <a href="https://www.image-line.com" target="_blank"><img style="margin: 10px" src="https://www.pngfind.com/pngs/m/4-49885_fl-studio-logo-png-transparent-png.png" alt="FL Studio" height="50" /></a>  
 FLStudio</br>
 
-
-</div>
-</div>
-
 </td><td valign="top" width="33%">
 
 <h3 align="center">Backend </h3>
