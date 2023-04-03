@@ -51,13 +51,13 @@ FLStudio
 <h3 align="center">Backend </h3>
 <div align="center">  
 <a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" /></a>  
-  <br>NodeJS</br><br>
+  <br>NodeJS<br>
   
 <a href="https://www.mongodb.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" /></a><br>
-MongoDB</br>
+MongoDB
   
 <a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" /></a>  
-MySQL</br><br>
+MySQL<br>
   
 </div>
 </td><td valign="top" width="33%">
@@ -65,19 +65,19 @@ MySQL</br><br>
 <h3 align="center">Language </h3>
 <div align="center">  
 <a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
-  <br>Javascript</br><br>
+  <br>Javascript<br>
 
 <a href="https://gamemaker.io/en" target="_blank"><img style="margin: 10px" src="https://coal.gamemaker.io/sites/5d75794b3c84c70006700381/theme/images/og/thumbnail_gm_logo.png?1677843242" alt="GMS" height="50" /></a>
-  <br>GML</br>
+  <br>GML
 
 <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a> 
-<br>HTML5</br>
+<br>HTML5
 
 <a href="https://en.m.wikipedia.org/wiki/CSS" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/CSS3_logo.svg/800px-CSS3_logo.svg.png" alt="CSS" height="50" /></a>  
-CSS</br>
+CSS
 
 <a href="https://www.php.net/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/php-original.svg" alt="PHP" height="50" /></a>  
-PHP</br><br>
+PHP<br>
     
 </div>
 </div>
