@@ -34,7 +34,7 @@
 <br>GameMaker</br>
   
 <a href="https://adobe.com/" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Adobe_Creative_Cloud_rainbow_icon.svg/480px-Adobe_Creative_Cloud_rainbow_icon.svg.png?20221002235840" alt="Adobe Creative Suite" height="50" /></a>  
-  Adobe Suite</br>
+<br>Adobe Suite</br>
 
 <a href="https://www.aseprite.org" target="_blank"><img style="margin: 10px" src="https://user-images.githubusercontent.com/105599773/227793892-34a4144b-6161-469e-adf2-2e5b00c466cf.png" alt="Aseprite" height="50" /></a>  
 Aseprite</br>
