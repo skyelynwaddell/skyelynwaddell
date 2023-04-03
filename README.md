@@ -42,7 +42,7 @@ Aseprite
 FLStudio
   
 <a href="https://developer.android.com/" target="_blank"><img style="margin: 10px" src="https://1.bp.blogspot.com/-LgTa-xDiknI/X4EflN56boI/AAAAAAAAPuk/24YyKnqiGkwRS9-_9suPKkfsAwO4wHYEgCLcBGAsYHQ/s0/image9.png" alt="Android Studio" height="50" /></a> 
-Android Studio
+<br> Android Studio
 
 </div>
 
