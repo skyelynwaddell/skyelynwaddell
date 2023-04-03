@@ -42,8 +42,8 @@ Aseprite</br>
 <a href="https://www.image-line.com" target="_blank"><img style="margin: 10px" src="https://www.pngfind.com/pngs/m/4-49885_fl-studio-logo-png-transparent-png.png" alt="FL Studio" height="50" /></a>  
 FLStudio</br>
   
-<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a> 
-<br>HTML5</br>
+<a href="https://developer.android.com/" target="_blank"><img style="margin: 10px" src="https://1.bp.blogspot.com/-LgTa-xDiknI/X4EflN56boI/AAAAAAAAPuk/24YyKnqiGkwRS9-_9suPKkfsAwO4wHYEgCLcBGAsYHQ/s0/image9.png" alt="Android Studio" height="50" /></a> 
+<br>Android Studio</br>
 
 </div>
 
