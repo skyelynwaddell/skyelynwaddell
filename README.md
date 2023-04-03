@@ -72,7 +72,7 @@ MySQL</br><br>
   <br>GML</br>
   
 <a href="https://www.php.net/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/php-original.svg" alt="PHP" height="50" /></a>  
-PHP</br><br>
+PHP</br>
 
 <a href="https://en.m.wikipedia.org/wiki/CSS" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/CSS3_logo.svg/800px-CSS3_logo.svg.png" alt="CSS" height="50" /></a>  
 CSS</br><br>
