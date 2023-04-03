@@ -74,7 +74,7 @@ MySQL</br><br>
 <a href="https://www.php.net/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/php-original.svg" alt="PHP" height="50" /></a>  
 PHP</br><br>
 
-<a href="https://en.m.wikipedia.org/wiki/CSS" target="_blank"><img style="margin: 10px" src="https://en.m.wikipedia.org/wiki/CSS#/media/File%3ACSS3_logo_and_wordmark.svg" alt="CSS" height="50" /></a>  
+<a href="https://en.m.wikipedia.org/wiki/CSS" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/CSS3_logo.svg/800px-CSS3_logo.svg.png" alt="CSS" height="50" /></a>  
 CSS</br><br>
     
 </div>
