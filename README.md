@@ -128,9 +128,9 @@ PHP<br>
  <br>
   <center>
     Helpful Links: <br>
-    <a href="https://nodejs.org/en">NodeJS | </a>
-    <a href="https://animate.style/">Animate.css | </a>
-    <a href="http://creative-tim.com/">Creative-Tim | </a>
+    <a href="https://nodejs.org/en">NodeJS</a> | 
+    <a href="https://animate.style/">Animate.css</a> | 
+    <a href="http://creative-tim.com/">Creative-Tim</a> 
   </center>
 <br>
 
