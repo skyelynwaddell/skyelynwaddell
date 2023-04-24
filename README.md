@@ -25,7 +25,7 @@
 ## Demo Pages
 
 <h3
-><a href="https://github.com/skyelynwaddell/robofriends"><u>Robofriends</u></a> <br>
+><a href="https://skyelynwaddell.github.io/robofriends/"><u>Robofriends</u></a> <br>
 <a href="http://skyelynwaddell.github.io/StartupSite/"><u>Startup-Site</u></a> <br>
 <a href="http://skyelynwaddell.github.io/PicturePortfolioExample/"><u>Picture-Portfolio</u></a>
 </h3>
