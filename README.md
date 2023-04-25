@@ -1,7 +1,7 @@
 ## <div align="center">Skye Waddell</div>
 
 <br>
-<div style ="display:flex;" align="center">
+<div style ="tc display:flex;" align="center">
   <img src="https://drive.google.com/uc?id=14xqv5Vq1iSHgQblRQwoVmMGU7XPq05u4" style="width:230px"/>
 </div>
 
@@ -23,12 +23,29 @@
 <br>Undead Survivor
     
 ## Demo Pages
+  <div class="appdiv" 
+  style="justify-content:center; tc; tj; display:flex-wrap; display:flex; padding:10px;">
+  <a href="https://skyelynwaddell.github.io/robofriends/" 
+  target="_blank">
+  <img src="https://icons.iconarchive.com/icons/noctuline/wall-e/256/Wall-E-icon.png" alt="RoboFriends" 
+  height="100" />
+  <br>
+  RoboFriends
+  
+  <a href="http://skyelynwaddell.github.io/StartupSite/" 
+  target="_blank">
+  <img src="https://icons.iconarchive.com/icons/aha-soft/standard-portfolio/256/Photo-portfolio-icon.png" alt="StartupSite" 
+  height="100" />
+  <br>
+  Startup Site
 
-<h3
-><a href="https://skyelynwaddell.github.io/robofriends/"><u>Robofriends</u></a> <br>
-<a href="http://skyelynwaddell.github.io/StartupSite/"><u>Startup-Site</u></a> <br>
-<a href="http://skyelynwaddell.github.io/PicturePortfolioExample/"><u>Picture-Portfolio</u></a>
-</h3>
+  <a href="http://skyelynwaddell.github.io/PicturePortfolioExample/" 
+  target="_blank">
+  <img src="https://icons.iconarchive.com/icons/gakuseisean/aire/256/Images-icon.png" alt="PicturePortfolio" 
+  height="100" />
+  <br>
+  Picture Portfolio
+  </div>
   
 ## Tech Stack
 
