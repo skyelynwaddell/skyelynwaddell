@@ -21,31 +21,6 @@
   
   <a href="https://skyestuff.itch.io/undead-survivor" target="_blank"><img src="https://lh3.googleusercontent.com/zto_sEx7-zSg4hwC6b5kwl5x6zt2z7UKCSmecq2EpfoDCxYTJNsJPMS83xtAuiZADSw" alt="Undead Survivor" height="100" />
 <br>Undead Survivor
-    
-## Demo Pages
-  <div class="appdiv" 
-  style="justify-content:center; tc; tj; display:flex-wrap; display:flex; padding:10px;">
-  <a href="https://skyelynwaddell.github.io/robofriends/" 
-  target="_blank">
-  <img src="https://icons.iconarchive.com/icons/noctuline/wall-e/256/Wall-E-icon.png" alt="RoboFriends" 
-  height="100" />
-  <br>
-  RoboFriends
-  
-  <a href="http://skyelynwaddell.github.io/StartupSite/" 
-  target="_blank">
-  <img src="https://icons.iconarchive.com/icons/aha-soft/standard-portfolio/256/Photo-portfolio-icon.png" alt="StartupSite" 
-  height="100" />
-  <br>
-  Startup Site
-
-  <a href="http://skyelynwaddell.github.io/PicturePortfolioExample/" 
-  target="_blank">
-  <img src="https://icons.iconarchive.com/icons/gakuseisean/aire/256/Images-icon.png" alt="PicturePortfolio" 
-  height="100" />
-  <br>
-  Picture Portfolio
-  </div>
   
 ## Tech Stack
 
@@ -107,6 +82,9 @@ CSS
 
 <a href="https://www.php.net/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/php-original.svg" alt="PHP" height="50" /></a>  
 PHP<br>
+
+<a href="https://www.lua.org/" target="_blank"><img style="margin: 10px" src="https://www.lua.org/images/lua30.gif" alt="LUA" height="50" /></a>  
+Lua<br>
     
 </div>
 </div>
