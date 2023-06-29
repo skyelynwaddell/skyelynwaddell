@@ -85,6 +85,9 @@ PHP<br>
 
 <a href="https://www.lua.org/" target="_blank"><img style="margin: 10px" src="https://www.lua.org/images/lua30.gif" alt="LUA" height="50" /></a>  
 Lua<br>
+
+<a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/242px-Python-logo-notext.svg.png" alt="Python" height="50" /></a>  
+Python<br>
     
 </div>
 </div>
