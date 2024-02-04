@@ -5,7 +5,7 @@
   <img src="https://drive.google.com/uc?id=14xqv5Vq1iSHgQblRQwoVmMGU7XPq05u4" style="width:230px"/>
 </div>
 
-### <div align="center">I'm a digital creator and fullstack developer. I have worked on many projects of different genres, and this is my portfolio featuring my digital advents and creations. Thank you for taking the time to visit. 🤖</div>
+### <div align="center">I'm an artist and fullstack developer. I have worked on many projects of different genres, and this is my portfolio featuring my digital advents and creations.</div>
 
 <div align="center">
 
