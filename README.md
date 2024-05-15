@@ -60,9 +60,9 @@
 
 ## GitHub Stats
 
-[![Skyes GitHub stats](https://github-readme-stats-beryl-theta-70.vercel.app/api/top-langs/?username=SKYELYNWADDELL)](https://github.com/skyelynwaddell/github-readme-stats)
-  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SKYELYNWADDELL)
+[![Skyes GitHub stats](https://github-readme-stats-beryl-theta-70.vercel.app/api/?username=SKYELYNWADDELL)](https://github.com/skyelynwaddell/github-readme-stats)
+
+[![Skyes Top Languages](https://github-readme-stats-beryl-theta-70.vercel.app/api/top-langs/?username=SKYELYNWADDELL)](https://github.com/skyelynwaddell/github-readme-stats)
   
 ## Connect with me
 <div align="center">
