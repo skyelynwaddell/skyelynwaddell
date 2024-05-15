@@ -63,7 +63,7 @@
 
 [![Skyes GitHub stats](https://github-readme-stats-beryl-theta-70.vercel.app/api/?username=SKYELYNWADDELL)](https://github.com/skyelynwaddell/github-readme-stats)
 
-[![Skyes Top Languages](https://github-readme-stats-beryl-theta-70.vercel.app/api/top-langs/?username=SKYELYNWADDELL)](https://github.com/skyelynwaddell/github-readme-stats)
+[![Skyes Top Languages](https://github-readme-stats-beryl-theta-70.vercel.app/api/top-langs/?username=SKYELYNWADDELL&hide=assembly,yacc,c)](https://github.com/skyelynwaddell/github-readme-stats)
   
 ## Connect with me
 <div align="center">
@@ -95,12 +95,6 @@
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=skyelynwaddell&&style=flat-square" align="center" />
 </div>   
-
-<br>
-
-<div>
-<a href="https://freecodecamp.org/certification/fcc1e1b3e48-8bf3-4182-aa35-f1289dd6feb6/responsive-web-design"><img style="width:400px;" class="cert" src="https://cdn.discordapp.com/attachments/958820900717863002/1240355033967628288/responsive-webdev-cert.png?ex=66464224&is=6644f0a4&hm=2c9b77386865acfdb3f3c2ed58af42c4678e1856a6c97611cbcbe729d8e9fa57&"></a>
-</div>
 
 ------
  <br>
