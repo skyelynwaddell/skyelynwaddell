@@ -96,7 +96,7 @@
 <br>
 
 <div>
-<img style="width:300px;" class="cert" src="./freecodecamp/responsive-webdev-cert.png">
+<img style="width:300px;" class="cert" src="https://cdn.discordapp.com/attachments/958820900717863002/1240355033967628288/responsive-webdev-cert.png?ex=66464224&is=6644f0a4&hm=2c9b77386865acfdb3f3c2ed58af42c4678e1856a6c97611cbcbe729d8e9fa57&">
 </div>
 
 ------
