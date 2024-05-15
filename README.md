@@ -70,21 +70,7 @@
 <a href="https://github.com/skyelynwaddell" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
-  
-<a href="https://twitter.com/ver2ion" target="_blank">
-<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
-</a>
-  
-<a href="https://www.facebook.com/ver2ion" target="_blank">
-<img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
-</a>  
-  
-<a href="http://www.skyescloud.xyz" target="_blank">
-<img src = "https://img.shields.io/badge/skyescloud.xyz-%20-blue">
-</a>  
 
-</div>  
-<br/>
 <div align="center" style="display:inline-block;flex-wrap:nowrap";>
 <img src="https://media.tenor.com/BzMSfXg3bMcAAAAd/medusa-fgo.gif" style="height:190px"/>
 
