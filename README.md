@@ -83,7 +83,6 @@
 </div>   
 
 ------
- <br>
   <center>
     Helpful Links: <br>
     <a href="https://nodejs.org/en">NodeJS</a> | 
@@ -97,6 +96,5 @@
     
     
   </center>
-<br>
 
 [Skye Wadell](https://github.com/skyelynwaddell) Thanks for reading if you've made it this far! Below are my Repo's! 🌸
