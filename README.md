@@ -93,6 +93,12 @@
 <img src="https://komarev.com/ghpvc/?username=skyelynwaddell&&style=flat-square" align="center" />
 </div>   
 
+<br>
+
+<div>
+<img style="width:300px;" class="cert" src="./freecodecamp/responsive-webdev-cert.png">
+</div>
+
 ------
  <br>
   <center>
