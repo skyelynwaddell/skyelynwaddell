@@ -63,7 +63,7 @@
 
 [![Skyes GitHub stats](https://github-readme-stats-beryl-theta-70.vercel.app/api/?username=SKYELYNWADDELL)](https://github.com/skyelynwaddell/github-readme-stats)
 
-![Skyes Top Languages](https://github-readme-stats-beryl-theta-70.vercel.app/api/top-langs/?username=SKYELYNWADDELL&hide=DIGITAL%20Command%Language,yacc,makefile,assembly,GLSL,Handlebars,Awk,Wren,Fennel,Moon,digitalcommandlanguage,moonscript,squirrel&langs_count=100)
+![Skyes Top Languages](https://github-readme-stats-beryl-theta-70.vercel.app/api/top-langs/?username=SKYELYNWADDELL&hide=DIGITAL%20Command%20Language,yacc,makefile,assembly,GLSL,Handlebars,Awk,Wren,Fennel,Moon,digitalcommandlanguage,moonscript,squirrel&langs_count=100)
   
 ## Connect with me
 <div align="center">
