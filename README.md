@@ -27,6 +27,7 @@
         <a href="https://www.aseprite.org" target="_blank"><img style="margin: 10px;" src="https://user-images.githubusercontent.com/105599773/227793892-34a4144b-6161-469e-adf2-2e5b00c466cf.png" alt="Aseprite" height="50" /></a>
         <a href="https://www.image-line.com" target="_blank"><img style="margin: 10px;" src="https://www.pngfind.com/pngs/m/4-49885_fl-studio-logo-png-transparent-png.png" alt="FL Studio" height="50" /></a>
         <a href="https://developer.android.com/" target="_blank"><img style="margin: 10px;" src="https://1.bp.blogspot.com/-LgTa-xDiknI/X4EflN56boI/AAAAAAAAPuk/24YyKnqiGkwRS9-_9suPKkfsAwO4wHYEgCLcBGAsYHQ/s0/image9.png" alt="Android Studio" height="50" /></a>
+        <a href="https://godotengine.org/" target="_blank"><img style="margin: 10px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Godot_icon.svg/2048px-Godot_icon.svg.png" alt="Godot 4" height="50" /></a>
     </td>
     </table>
     <table>
@@ -35,6 +36,7 @@
         <a href="https://nodejs.org/" target="_blank"><img style="margin: 10px;" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" /></a>
         <a href="https://www.mongodb.com/" target="_blank"><img style="margin: 10px;" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" /></a>
         <a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px;" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" /></a>
+        <a href="https://dotnet.microsoft.com/en-us/apps/aspnet" target="_blank"><img style="margin: 10px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/.NET_Core_Logo.svg/1024px-.NET_Core_Logo.svg.png" alt="ASP. NET CORE MVC / WINFORMS" height="50" /></a>
     </td>
     </table>
     <table>
@@ -46,7 +48,11 @@
         <a href="https://en.m.wikipedia.org/wiki/CSS" target="_blank"><img style="margin: 10px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/CSS3_logo.svg/800px-CSS3_logo.svg.png" alt="CSS" height="50" /></a>
         <a href="https://www.php.net/" target="_blank"><img style="margin: 10px;" src="https://profilinator.rishav.dev/skills-assets/php-original.svg" alt="PHP" height="50" /></a>
         <a href="https://www.lua.org/" target="_blank"><img style="margin: 10px;" src="https://www.lua.org/images/lua30.gif" alt="LUA" height="50" /></a>
+        <a href="https://love2d.org/" target="_blank"><img style="margin: 10px;" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTN9WG5lQXSvoBvVFNVWAKn_cCXR8ddEMx3GQ&s" alt="LOVE2D" height="50" /></a>
+        <a href="https://www.lexaloffle.com/pico-8.php" target="_blank"><img style="margin: 10px;" src="[https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTN9WG5lQXSvoBvVFNVWAKn_cCXR8ddEMx3GQ&s](https://raw.githubusercontent.com/github/explore/4262c3bd938f34012322129aa29b0e9bd5a1048b/topics/pico-8/pico-8.png)" alt="Pico8" height="50" /></a>
+        <a href="https://react.dev/" target="_blank"><img style="margin: 10px;" src="https://pbs.twimg.com/profile_images/1785867863191932928/EpOqfO6d_400x400.png" alt="React" height="50" /></a>
         <a href="https://www.python.org/" target="_blank"><img style="margin: 10px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/242px-Python-logo-notext.svg.png" alt="Python" height="50" /></a>
+        <a href="https://learn.microsoft.com/en-us/dotnet/csharp/tour-of-csharp/" target="_blank"><img style="margin: 10px;" src="[https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/242px-Python-logo-notext.svg.png](https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Logo_C_sharp.svg/1200px-Logo_C_sharp.svg.png)" alt="C#" height="50" /></a>
       </div>
       </div>
     </td>
