@@ -49,10 +49,9 @@
         <a href="https://www.php.net/" target="_blank"><img style="margin: 10px;" src="https://profilinator.rishav.dev/skills-assets/php-original.svg" alt="PHP" height="50" /></a>
         <a href="https://www.lua.org/" target="_blank"><img style="margin: 10px;" src="https://www.lua.org/images/lua30.gif" alt="LUA" height="50" /></a>
         <a href="https://love2d.org/" target="_blank"><img style="margin: 10px;" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTN9WG5lQXSvoBvVFNVWAKn_cCXR8ddEMx3GQ&s" alt="LOVE2D" height="50" /></a>
-        <a href="https://www.lexaloffle.com/pico-8.php" target="_blank"><img style="margin: 10px;" src="[https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTN9WG5lQXSvoBvVFNVWAKn_cCXR8ddEMx3GQ&s](https://raw.githubusercontent.com/github/explore/4262c3bd938f34012322129aa29b0e9bd5a1048b/topics/pico-8/pico-8.png)" alt="Pico8" height="50" /></a>
-        <a href="https://react.dev/" target="_blank"><img style="margin: 10px;" src="https://pbs.twimg.com/profile_images/1785867863191932928/EpOqfO6d_400x400.png" alt="React" height="50" /></a>
+        <a href="https://www.lexaloffle.com/pico-8.php" target="_blank"><img style="margin: 10px;" src="https://raw.githubusercontent.com/github/explore/4262c3bd938f34012322129aa29b0e9bd5a1048b/topics/pico-8/pico-8.png" alt="Pico8" height="50" /></a>
         <a href="https://www.python.org/" target="_blank"><img style="margin: 10px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/242px-Python-logo-notext.svg.png" alt="Python" height="50" /></a>
-        <a href="https://learn.microsoft.com/en-us/dotnet/csharp/tour-of-csharp/" target="_blank"><img style="margin: 10px;" src="[https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/242px-Python-logo-notext.svg.png](https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Logo_C_sharp.svg/1200px-Logo_C_sharp.svg.png)" alt="C#" height="50" /></a>
+        <a href="https://learn.microsoft.com/en-us/dotnet/csharp/tour-of-csharp/" target="_blank"><img style="margin: 10px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Logo_C_sharp.svg/1200px-Logo_C_sharp.svg.png" alt="C#" height="50" /></a>
       </div>
       </div>
     </td>
