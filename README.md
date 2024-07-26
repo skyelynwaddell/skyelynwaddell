@@ -52,6 +52,7 @@
         <a href="https://www.lexaloffle.com/pico-8.php" target="_blank"><img style="margin: 10px;" src="https://raw.githubusercontent.com/github/explore/4262c3bd938f34012322129aa29b0e9bd5a1048b/topics/pico-8/pico-8.png" alt="Pico8" height="50" /></a>
         <a href="https://www.python.org/" target="_blank"><img style="margin: 10px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/242px-Python-logo-notext.svg.png" alt="Python" height="50" /></a>
         <a href="https://learn.microsoft.com/en-us/dotnet/csharp/tour-of-csharp/" target="_blank"><img style="margin: 10px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Logo_C_sharp.svg/1200px-Logo_C_sharp.svg.png" alt="C#" height="50" /></a>
+        <a href="https://www.java.com/en/" target="_blank"><img style="margin: 10px;" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/181_Java_logo_logos-512.png" alt="Java" height="50" /></a>
       </div>
       </div>
     </td>
