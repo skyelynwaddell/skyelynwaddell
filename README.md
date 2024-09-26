@@ -1,8 +1,12 @@
-## <div align="center">Skye Waddell</div>
+<div style="display:flex; justify-content:center" align="center">
+<img src="https://github.com/user-attachments/assets/8f139730-089d-4091-ab33-bde108d0eff8">
+</div>
 
 <br>
 <div style ="tc display:flex;" align="center">
+  <img src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" style="width:230px">
   <img src="https://drive.google.com/uc?id=14xqv5Vq1iSHgQblRQwoVmMGU7XPq05u4" style="width:230px"/>
+  <img src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" style="width:230px">
 </div>
 
 ### <div align="center">I'm an artist and fullstack developer. I have worked on many projects of different genres, and this is my portfolio featuring my digital advents and creations.</div>
