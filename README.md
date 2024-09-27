@@ -109,4 +109,4 @@
     
   </center>
 
-[Skye Wadell](https://github.com/skyelynwaddell) Thanks for reading if you've made it this far! Below are my projects and creations! 🌸
+[Skye Waddell](https://github.com/skyelynwaddell) Thanks for reading if you've made it this far! Below are my projects and creations! 🌸
