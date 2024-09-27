@@ -5,7 +5,7 @@
 <br>
 <div style ="tc display:flex;" align="center">
   <img src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" style="width:230px">
-  <img src="https://drive.google.com/uc?id=14xqv5Vq1iSHgQblRQwoVmMGU7XPq05u4" style="width:230px"/>
+  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExMHVvazY4eXN5YzRmOWo0cnZ4d2s3dDYwdG9weGFwbnZodHBqYmUwZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/zTQQPJXn1j8Jy/giphy.gif" style="width:230px"/>
   <img src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" style="width:230px">
 </div>
 
