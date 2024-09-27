@@ -84,6 +84,8 @@
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
 
+<br>
+
 <div align="center" style="display:inline-block;flex-wrap:nowrap";>
 <img src="https://media.tenor.com/BzMSfXg3bMcAAAAd/medusa-fgo.gif" style="height:190px"/>
 
@@ -110,4 +112,4 @@
     
   </center>
 
-[Skye Wadell](https://github.com/skyelynwaddell) Thanks for reading if you've made it this far! Below are my Repo's! 🌸
+[Skye Wadell](https://github.com/skyelynwaddell) Thanks for reading if you've made it this far! Below are my projects and creations's! 🌸
