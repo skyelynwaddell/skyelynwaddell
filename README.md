@@ -6,7 +6,8 @@
 <div style ="tc display:flex;" align="center">
   <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExMHVvazY4eXN5YzRmOWo0cnZ4d2s3dDYwdG9weGFwbnZodHBqYmUwZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/zTQQPJXn1j8Jy/giphy.gif" width="250px"/>
   
-<div align="center">I'm an artist and fullstack developer. I have worked on many projects of different genres, and this is my portfolio featuring my digital advents and creations.</div>
+## Artist & Fullstack Developer
+### I have worked on many projects of different genres, and this is my portfolio featuring my digital advents and creations.
 
 <div align="center">
 
