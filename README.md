@@ -6,13 +6,15 @@
 <div style ="tc display:flex;" align="center">
   <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExMHVvazY4eXN5YzRmOWo0cnZ4d2s3dDYwdG9weGFwbnZodHBqYmUwZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/zTQQPJXn1j8Jy/giphy.gif" width="250px"/>
 
----
+<br>
   
 ## Fullstack Developer & Creative Artist
 ### I have worked on many projects of different genres, and this is my portfolio featuring my digital advents and creations.
 
+<br>
 <p align="center"><a href="https://www.buymeacoffee.com/skyelynwaddell"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="skyelynwaddell" /></a></p>
 <br>
+
 
 <div align="center">
 
