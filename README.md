@@ -9,6 +9,8 @@
 ## Artist & Fullstack Developer
 ### I have worked on many projects of different genres, and this is my portfolio featuring my digital advents and creations.
 
+<p align="center"><a href="https://www.buymeacoffee.com/skyelynwaddell"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="skyelynwaddell" /></a></p>
+
 <div align="center">
 
 ## Games & Applications
@@ -72,21 +74,22 @@
 
 ## GitHub Stats
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=skyelynwaddell" alt="skyelynwaddell" /></a> </p>
+
 [![Skyes GitHub stats](https://github-readme-stats-beryl-theta-70.vercel.app/api/?username=SKYELYNWADDELL)](https://github.com/skyelynwaddell/github-readme-stats)
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=skyelynwaddell&" alt="skyelynwaddell" /></p>
 
 ![Skyes Top Languages](https://github-readme-stats-beryl-theta-70.vercel.app/api/top-langs/?username=SKYELYNWADDELL&hide=DIGITAL%20Command%20Language,c,yacc,makefile,assembly,GLSL,Handlebars,Awk,Wren,Fennel,Moon,digitalcommandlanguage,moonscript,squirrel&langs_count=100)
   
 ## Connect with me
-<div align="center">
-<a href="https://github.com/skyelynwaddell" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
+
+<div align="center" style="display:flex; flex-direction:column">
 
 <br>
 
 <div align="center" style="display:inline-block;flex-wrap:nowrap";>
 <img src="https://media.tenor.com/BzMSfXg3bMcAAAAd/medusa-fgo.gif" style="height:190px"/>
-
 
 
 </div>
@@ -105,9 +108,12 @@
     <a href="https://getbootstrap.com/">Bootstrap</a> | 
     <a href="https://undraw.co/">unDraw</a> | 
     <a href="https://www.kaiber.ai/">Kaiber.AI</a> | 
-    <a href="http://creative-tim.com/">Creative-Tim</a> 
-    
+    <a href="http://creative-tim.com/">Creative-Tim</a> <br>
+
+
     
   </center>
 
 [Skye Waddell](https://github.com/skyelynwaddell) Thanks for reading if you've made it this far! Below are my projects and creations! 🌸
+<br>
+
