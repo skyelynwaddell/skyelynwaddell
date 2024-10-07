@@ -81,9 +81,9 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=skyelynwaddell&column=3" alt="skyelynwaddell" /></a> </p>
 
-[![Skyes GitHub stats](https://github-readme-stats-beryl-theta-70.vercel.app/api/?username=SKYELYNWADDELL)](https://github.com/skyelynwaddell/github-readme-stats)
+<img width=300 src="https://github-readme-stats-beryl-theta-70.vercel.app/api/?username=SKYELYNWADDELL"/>
 
-<p width:300 align="center"><img align="center" width:300 src="https://github-readme-streak-stats.herokuapp.com/?user=skyelynwaddell&" alt="skyelynwaddell" /></p>
+<p width=300 align="center"><img align="center" width=300 src="https://github-readme-streak-stats.herokuapp.com/?user=skyelynwaddell&" alt="skyelynwaddell" /></p>
 
 ![Skyes Top Languages](https://github-readme-stats-beryl-theta-70.vercel.app/api/top-langs/?username=SKYELYNWADDELL&hide=DIGITAL%20Command%20Language,c,yacc,makefile,assembly,GLSL,Handlebars,Awk,Wren,Fennel,Moon,digitalcommandlanguage,moonscript,squirrel&langs_count=100)
   
