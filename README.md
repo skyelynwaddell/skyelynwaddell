@@ -88,13 +88,13 @@
 
 ## GitHub Stats
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=skyelynwaddell&column=3" alt="skyelynwaddell" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=skyelynwaddell&column=3&theme=dracula" alt="skyelynwaddell" /></a> </p>
 
-<img width=300 src="https://github-readme-stats-beryl-theta-70.vercel.app/api/?username=SKYELYNWADDELL"/>
+<img width=300 src="https://github-readme-stats-beryl-theta-70.vercel.app/api/?username=SKYELYNWADDELL&theme=dracula"/>
 
-<p width=300 align="center"><img align="center" width=300 src="https://github-readme-streak-stats.herokuapp.com/?user=skyelynwaddell&" alt="skyelynwaddell" /></p>
+<p width=300 align="center"><img align="center" width=300 src="https://github-readme-streak-stats.herokuapp.com/?user=skyelynwaddell&theme=dracula" alt="skyelynwaddell" /></p>
 
-![Skyes Top Languages](https://github-readme-stats-beryl-theta-70.vercel.app/api/top-langs/?username=SKYELYNWADDELL&hide=DIGITAL%20Command%20Language,c,yacc,makefile,assembly,GLSL,Handlebars,Awk,Wren,Fennel,Moon,digitalcommandlanguage,moonscript,squirrel&langs_count=100)
+<img src="https://github-readme-stats-beryl-theta-70.vercel.app/api/top-langs/?username=SKYELYNWADDELL&hide=DIGITAL%20Command%20Language,c,yacc,makefile,assembly,GLSL,Handlebars,Awk,Wren,Fennel,Moon,digitalcommandlanguage,moonscript,squirrel&langs_count=100&theme=dracula"/>
 
 <hr/>
 
