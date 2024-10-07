@@ -14,7 +14,6 @@
 
 <br>
 <p align="center"><a href="https://www.buymeacoffee.com/skyelynwaddell"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="skyelynwaddell" /></a></p>
-<br>
 
 <hr/>
 
@@ -22,11 +21,14 @@
 
 ## Games & Applications
   
-  <a href="https://github.com/skyelynwaddell/Vector0" target="_blank"><img style="border-radius:10px;" src="https://media.githubusercontent.com/media/skyelynwaddell/Vector0/main/textures/__TB_empty.png" alt="Vector0" height="100" />
+  <a href="https://github.com/skyelynwaddell/Vector0" target="_blank"><img style="border-radius:10px;" src="https://media.githubusercontent.com/media/skyelynwaddell/Vector0/main/textures/__TB_empty.png" alt="Vector0" height="100">
 <br>Vector0
+</a>
 
   <a href="https://skyestuff.itch.io/undead-survivor" target="_blank"><img style="border-radius:10px;" src="https://lh3.googleusercontent.com/zto_sEx7-zSg4hwC6b5kwl5x6zt2z7UKCSmecq2EpfoDCxYTJNsJPMS83xtAuiZADSw" alt="Undead Survivor" height="100" />
 <br>Undead Survivor<br>
+</a>
+
 </div>
   <div align="center">
 <hr/>
