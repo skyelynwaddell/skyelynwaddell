@@ -79,7 +79,7 @@
 
 ## GitHub Stats
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=skyelynwaddell&column=4" alt="skyelynwaddell" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=skyelynwaddell&column=3" alt="skyelynwaddell" /></a> </p>
 
 [![Skyes GitHub stats](https://github-readme-stats-beryl-theta-70.vercel.app/api/?username=SKYELYNWADDELL)](https://github.com/skyelynwaddell/github-readme-stats)
 
