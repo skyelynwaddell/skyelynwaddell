@@ -7,6 +7,7 @@
   <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExMHVvazY4eXN5YzRmOWo0cnZ4d2s3dDYwdG9weGFwbnZodHBqYmUwZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/zTQQPJXn1j8Jy/giphy.gif" width="250px"/>
 
 <br>
+<hr/>
   
 ## Fullstack Developer & Creative Artist
 ### I have worked on many projects of different genres, and this is my portfolio featuring my digital advents and creations.
@@ -15,6 +16,7 @@
 <p align="center"><a href="https://www.buymeacoffee.com/skyelynwaddell"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="skyelynwaddell" /></a></p>
 <br>
 
+<hr/>
 
 <div align="center">
 
@@ -27,7 +29,8 @@
 <br>Undead Survivor<br>
 </div>
   <div align="center">
-
+<hr/>
+    
 ## Tech Stack
 
 <table align="center">
@@ -71,11 +74,15 @@
   </tr>
 </table>
 </div>
+
+<hr/>
 <div align="center">
 
 ## Certificates
 <h3>💻<a href="https://www.sait.ca/programs-and-courses/certificates/object-oriented-software-development" style="color:grey;">SAIT - Object Oriented Software Development <br> (in progress...)</h3></a>
 <h3>🌐<a href="https://freecodecamp.org/certification/fcc1e1b3e48-8bf3-4182-aa35-f1289dd6feb6/responsive-web-design">FCC - Responsive Web Design</h3></a>
+
+<hr/>
 
 ## GitHub Stats
 
@@ -86,7 +93,9 @@
 <p width=300 align="center"><img align="center" width=300 src="https://github-readme-streak-stats.herokuapp.com/?user=skyelynwaddell&" alt="skyelynwaddell" /></p>
 
 ![Skyes Top Languages](https://github-readme-stats-beryl-theta-70.vercel.app/api/top-langs/?username=SKYELYNWADDELL&hide=DIGITAL%20Command%20Language,c,yacc,makefile,assembly,GLSL,Handlebars,Awk,Wren,Fennel,Moon,digitalcommandlanguage,moonscript,squirrel&langs_count=100)
-  
+
+<hr/>
+
 ## Connect with me
 
 <div align="center" style="display:flex; flex-direction:column">
