@@ -44,6 +44,8 @@
         <a href="https://www.aseprite.org" target="_blank"><img style="margin: 10px;" src="https://user-images.githubusercontent.com/105599773/227793892-34a4144b-6161-469e-adf2-2e5b00c466cf.png" alt="Aseprite" height="50" /></a>
         <a href="https://www.image-line.com" target="_blank"><img style="margin: 10px;" src="https://www.pngfind.com/pngs/m/4-49885_fl-studio-logo-png-transparent-png.png" alt="FL Studio" height="50" /></a>
         <a href="https://developer.android.com/" target="_blank"><img style="margin: 10px;" src="https://1.bp.blogspot.com/-LgTa-xDiknI/X4EflN56boI/AAAAAAAAPuk/24YyKnqiGkwRS9-_9suPKkfsAwO4wHYEgCLcBGAsYHQ/s0/image9.png" alt="Android Studio" height="50" /></a>
+        <a href="https://developer.apple.com/xcode/" target="_blank"><img style="margin: 10px;" src="https://developer.apple.com/assets/elements/icons/xcode-12/xcode-12-96x96_2x.png" alt="XCODE" height="50" /></a>
+        <a href="https://visualstudio.microsoft.com/vs/" target="_blank"><img style="margin: 10px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Visual_Studio_Icon_2022.svg/2048px-Visual_Studio_Icon_2022.svg.png" alt="Visual Studio" height="50" /></a>
         <a href="https://godotengine.org/" target="_blank"><img style="margin: 10px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Godot_icon.svg/2048px-Godot_icon.svg.png" alt="Godot 4" height="50" /></a>
     </td>
     </table>
