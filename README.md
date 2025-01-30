@@ -61,6 +61,7 @@
         <a href="https://nginx.org/en/" target="_blank"><img style="margin: 10px;" src="https://store-images.s-microsoft.com/image/apps.27292.99aaf14d-165b-4f13-b5d7-878674e5563a.7389db5b-24e8-48c2-a0aa-fe912db4e1c2.007d21f1-5bc4-42bf-82e0-7ba101a5d637" alt="NGINX" height="50" /></a>
         <a href="https://www.apache.org/" target="_blank"><img style="margin: 10px;" src="https://e7.pngegg.com/pngimages/526/357/png-clipart-xampp-apache-http-server-web-server-computer-servers-computer-software-arroba-text-trademark.png" alt="Apache / PhpMyAdmin" height="50" /></a>
         <a href="https://tomcat.apache.org/" target="_blank"><img style="margin: 10px;" src="https://upload.wikimedia.org/wikipedia/commons/f/fe/Apache_Tomcat_logo.svg" alt="TomCat" height="50" /></a>
+        <a href="https://en.wikipedia.org/wiki/API" target="_blank"><img style="margin: 10px;" src="https://apps.odoo.com/apps/icon_image?module_id=37657" alt="Rest API" height="50" /></a>
     </td>
     </table>
     <table>
