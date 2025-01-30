@@ -82,6 +82,7 @@
         <a href="https://kotlinlang.org/" target="_blank"><img style="margin: 10px;" src="https://pbs.twimg.com/profile_images/1399329694340747271/T5fbWxtN_400x400.png" alt="Kotlin" height="50" /></a>
         <a href="https://developer.apple.com/swift/" target="_blank"><img style="margin: 10px;" src="https://developer.apple.com/assets/elements/icons/swift/swift-96x96.png" alt="Swift" height="50" /></a>
         <a href="https://www.ruby-lang.org/en/" target="_blank"><img style="margin: 10px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Ruby_logo.svg/1200px-Ruby_logo.svg.png" alt="Ruby" height="50" /></a>
+        <a href="https://docs.godotengine.org/en/stable/tutorials/scripting/gdscript/gdscript_basics.html" target="_blank"><img style="margin: 10px;" src="https://raw.githubusercontent.com/Herbherth/GDScript-Quality-of-Life/main/images/icon.png" alt="GDScript" height="50" /></a>
       </div>
       </div>
     </td>
