@@ -58,6 +58,8 @@
         <a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px;" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" /></a>
         <a href="https://dotnet.microsoft.com/en-us/apps/aspnet" target="_blank"><img style="margin: 10px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/.NET_Core_Logo.svg/1024px-.NET_Core_Logo.svg.png" alt="ASP. NET CORE MVC / WINFORMS" height="50" /></a>
         <a href="https://developer.mozilla.org/en-US/docs/Web/API/WebSockets_API" target="_blank"><img style="margin: 10px;" src="https://static-00.iconduck.com/assets.00/websocket-icon-1024x769-b74mi87d.png" alt="Websockets" height="50" /></a>
+        <a href="https://nginx.org/en/" target="_blank"><img style="margin: 10px;" src="https://store-images.s-microsoft.com/image/apps.27292.99aaf14d-165b-4f13-b5d7-878674e5563a.7389db5b-24e8-48c2-a0aa-fe912db4e1c2.007d21f1-5bc4-42bf-82e0-7ba101a5d637" alt="NGINX" height="50" /></a>
+        <a href="https://www.apache.org/" target="_blank"><img style="margin: 10px;" src="https://www.ibm.com/content/dam/adobe-cms/instana/media_logo/Apache.component.complex-narrative-xl.ts=1689703187304.png/content/adobe-cms/us/en/products/instana/supported-technologies/apache-web-server-monitoring/_jcr_content/root/table_of_contents/body/content_section_styled/content-section-body/complex_narrative/logoimage" alt="Apache / PhpMyAdmin" height="50" /></a>
     </td>
     </table>
     <table>
