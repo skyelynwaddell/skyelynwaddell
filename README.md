@@ -81,7 +81,7 @@
 <div align="center">
 
 ## Certificates
-<h3>💻<a href="https://www.sait.ca/programs-and-courses/certificates/object-oriented-software-development" style="color:grey;">SAIT - Object Oriented Software Development <br> (in progress...)</h3></a>
+<h3>💻<a href="https://www.sait.ca/programs-and-courses/certificates/object-oriented-software-development" style="color:grey;">SAIT - Object Oriented Software Development</h3></a>
 <h3>🌐<a href="https://freecodecamp.org/certification/fcc1e1b3e48-8bf3-4182-aa35-f1289dd6feb6/responsive-web-design">FCC - Responsive Web Design</h3></a>
 
 <hr/>
