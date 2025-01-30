@@ -46,6 +46,7 @@
         <a href="https://developer.android.com/" target="_blank"><img style="margin: 10px;" src="https://1.bp.blogspot.com/-LgTa-xDiknI/X4EflN56boI/AAAAAAAAPuk/24YyKnqiGkwRS9-_9suPKkfsAwO4wHYEgCLcBGAsYHQ/s0/image9.png" alt="Android Studio" height="50" /></a>
         <a href="https://developer.apple.com/xcode/" target="_blank"><img style="margin: 10px;" src="https://developer.apple.com/assets/elements/icons/xcode-12/xcode-12-96x96_2x.png" alt="XCODE" height="50" /></a>
         <a href="https://visualstudio.microsoft.com/vs/" target="_blank"><img style="margin: 10px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Visual_Studio_Icon_2022.svg/2048px-Visual_Studio_Icon_2022.svg.png" alt="Visual Studio" height="50" /></a>
+        <a href="https://code.visualstudio.com/" target="_blank"><img style="margin: 10px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/800px-Visual_Studio_Code_1.35_icon.svg.png" alt="VS Code" height="50" /></a>
         <a href="https://godotengine.org/" target="_blank"><img style="margin: 10px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Godot_icon.svg/2048px-Godot_icon.svg.png" alt="Godot 4" height="50" /></a>
     </td>
     </table>
