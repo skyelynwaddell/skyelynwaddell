@@ -66,7 +66,7 @@
     <td valign="top" width="33%">
       <div align="center">
         <a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px;" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>
-        <a href="https://gamemaker.io/en" target="_blank"><img style="margin: 10px;" src="https://coal.gamemaker.io/sites/5d75794b3c84c70006700381/theme/images/og/thumbnail_gm_logo.png?1677843242" alt="GMS" height="50" /></a>
+        <a href="https://gamemaker.io/en" target="_blank"><img style="margin: 10px;" src="https://www.svgrepo.com/show/373617/gamemaker.svg" alt="GMS" height="50" /></a>
         <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px;" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>
         <a href="https://en.m.wikipedia.org/wiki/CSS" target="_blank"><img style="margin: 10px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/CSS3_logo.svg/800px-CSS3_logo.svg.png" alt="CSS" height="50" /></a>
         <a href="https://www.php.net/" target="_blank"><img style="margin: 10px;" src="https://profilinator.rishav.dev/skills-assets/php-original.svg" alt="PHP" height="50" /></a>
