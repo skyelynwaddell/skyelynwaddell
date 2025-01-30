@@ -69,9 +69,11 @@
         <a href="https://www.lexaloffle.com/pico-8.php" target="_blank"><img style="margin: 10px;" src="https://raw.githubusercontent.com/github/explore/4262c3bd938f34012322129aa29b0e9bd5a1048b/topics/pico-8/pico-8.png" alt="Pico8" height="50" /></a>
         <a href="https://www.python.org/" target="_blank"><img style="margin: 10px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/242px-Python-logo-notext.svg.png" alt="Python" height="50" /></a>
         <a href="https://learn.microsoft.com/en-us/dotnet/csharp/tour-of-csharp/" target="_blank"><img style="margin: 10px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Logo_C_sharp.svg/1200px-Logo_C_sharp.svg.png" alt="C#" height="50" /></a>
+        <a href="https://cplusplus.com/" target="_blank"><img style="margin: 10px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1200px-ISO_C%2B%2B_Logo.svg.png" alt="C++" height="50" /></a>
         <a href="https://www.java.com/en/" target="_blank"><img style="margin: 10px;" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/181_Java_logo_logos-512.png" alt="Java" height="50" /></a>
         <a href="https://kotlinlang.org/" target="_blank"><img style="margin: 10px;" src="https://pbs.twimg.com/profile_images/1399329694340747271/T5fbWxtN_400x400.png" alt="Kotlin" height="50" /></a>
         <a href="https://developer.apple.com/swift/" target="_blank"><img style="margin: 10px;" src="https://developer.apple.com/assets/elements/icons/swift/swift-96x96.png" alt="Swift" height="50" /></a>
+        <a href="https://www.ruby-lang.org/en/" target="_blank"><img style="margin: 10px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Ruby_logo.svg/1200px-Ruby_logo.svg.png" alt="Ruby" height="50" /></a>
       </div>
       </div>
     </td>
