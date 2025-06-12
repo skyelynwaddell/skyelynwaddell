@@ -9,7 +9,7 @@
 <br>
 <hr/>
   
-## Fullstack Developer & Creative Artist
+<img src="https://cdn.discordapp.com/attachments/1372035295503061003/1382844171681009765/doom-small-fullstack-developer.png?ex=684ca17e&is=684b4ffe&hm=56ab3f0676d1d94a9a0310e4705d87d38a44e09c875d5bc64b5c907638cda45b&"> <br>
 ### I have worked on many projects of different genres, and this is my portfolio featuring my digital advents and creations.
 
 <br>
@@ -19,7 +19,7 @@
 
 <div align="center">
 
-## Games & Applications
+<img src="https://cdn.discordapp.com/attachments/1372035295503061003/1382843602421678130/doom-small-games--applications.png?ex=684ca0f6&is=684b4f76&hm=32dbef02ec8bfc95fcbf25aefe832860717ec35710aca04fa3903f93a04fd9e9&"> <br>
   
   <a href="https://github.com/skyelynwaddell/Vector0" target="_blank"><img style="border-radius:10px;" src="https://media.githubusercontent.com/media/skyelynwaddell/Vector0/main/textures/__TB_empty.png" alt="Vector0" height="100">
 <br>Vector0
@@ -33,7 +33,7 @@
   <div align="center">
 <hr/>
     
-## Tech Stack
+<img src="https://cdn.discordapp.com/attachments/1372035295503061003/1382844171408248982/doom-small-tech-stack.png?ex=684ca17e&is=684b4ffe&hm=c90636062121ed66f16cdad56f2d864563117bc6c48a3e4537575ccce217cefe&"> <br>
 
 <table align="center">
   <tr>
@@ -93,13 +93,13 @@
 <hr/>
 <div align="center">
 
-## Education
+<img src="https://cdn.discordapp.com/attachments/1372035295503061003/1382844171144134747/doom-small-education.png?ex=684ca17e&is=684b4ffe&hm=a996f60295bfc1a4630d8e3104b6ee0715a66e80b7d13ab421b77f03c9f75f04&"> <br>
 <h3>💻<a href="https://www.sait.ca/programs-and-courses/certificates/object-oriented-software-development" style="color:grey;">SAIT - Object Oriented Software Development</h3></a>
 <h3>🌐<a href="https://freecodecamp.org/certification/fcc1e1b3e48-8bf3-4182-aa35-f1289dd6feb6/responsive-web-design">FCC - Responsive Web Design</h3></a>
 
 <hr/>
 
-## GitHub Stats
+<img src="https://cdn.discordapp.com/attachments/1372035295503061003/1382844170879631360/doom-small-github-stats.png?ex=684ca17e&is=684b4ffe&hm=1aa2dce60da1b0382e7595133430eca1d8474408902c76ddc97f7f4acbb647d3&"> <br>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=skyelynwaddell&column=3&theme=dracula" alt="skyelynwaddell" /></a> </p>
 
@@ -111,7 +111,7 @@
 
 <hr/>
 
-## Connect with me
+<img src="https://cdn.discordapp.com/attachments/1372035295503061003/1382844170648948886/doom-small-connect-with-me.png?ex=684ca17e&is=684b4ffe&hm=9f8f6051b5e1b6f212c52dc03520be0930fb153d752931b9d7256e89d7676982&"> <br>
 
 <div align="center" style="display:flex; flex-direction:column">
 
