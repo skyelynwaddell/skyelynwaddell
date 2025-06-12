@@ -21,7 +21,7 @@
 
 <img src="https://cdn.discordapp.com/attachments/1372035295503061003/1382843602421678130/doom-small-games--applications.png?ex=684ca0f6&is=684b4f76&hm=32dbef02ec8bfc95fcbf25aefe832860717ec35710aca04fa3903f93a04fd9e9&"> <br>
   
-  <a href="https://github.com/skyelynwaddell/Vector0" target="_blank"><img style="border-radius:10px;" src="https://media.githubusercontent.com/media/skyelynwaddell/Vector0/main/textures/__TB_empty.png" alt="Vector0" height="100">
+  <a href="https://github.com/skyelynwaddell/Vector0" target="_blank"><img style="border-radius:10px;" src="https://cdn.discordapp.com/attachments/1372035295503061003/1382845279790956706/TB_empty.png?ex=684ca286&is=684b5106&hm=66afb09fb883f9b906f5589f68302f0609548dfefda990100a32b27949d5bff3&" alt="Vector0" height="100">
 <br>Vector0
 </a>
 
@@ -111,7 +111,7 @@
 
 <hr/>
 
-<img src="https://cdn.discordapp.com/attachments/1372035295503061003/1382844170648948886/doom-small-connect-with-me.png?ex=684ca17e&is=684b4ffe&hm=9f8f6051b5e1b6f212c52dc03520be0930fb153d752931b9d7256e89d7676982&"> <br>
+<img src="https://cdn.discordapp.com/attachments/1372035295503061003/1382844170648948886/doom-small-connect-with-me.png?ex=684ca17e&is=684b4ffe&hm=9f8f6051b5e1b6f212c52dc03520be0930fb153d752931b9d7256e89d7676982&">
 
 <div align="center" style="display:flex; flex-direction:column">
 
