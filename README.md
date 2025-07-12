@@ -9,7 +9,8 @@
 <br>
 <hr/>
   
-<img src="https://cdn.discordapp.com/attachments/1372035295503061003/1382844171681009765/doom-small-fullstack-developer.png?ex=684ca17e&is=684b4ffe&hm=56ab3f0676d1d94a9a0310e4705d87d38a44e09c875d5bc64b5c907638cda45b&"> <br>
+<img width="438" height="24" alt="image" src="https://github.com/user-attachments/assets/d307c8ec-22fc-45d8-b1b9-0ba13a4c5458" />
+ <br>
 ### I have worked on many projects of different genres, and this is my portfolio featuring my digital advents and creations.
 
 <br>
@@ -19,9 +20,10 @@
 
 <div align="center">
 
-<img src="https://cdn.discordapp.com/attachments/1372035295503061003/1382843602421678130/doom-small-games--applications.png?ex=684ca0f6&is=684b4f76&hm=32dbef02ec8bfc95fcbf25aefe832860717ec35710aca04fa3903f93a04fd9e9&"> <br>
+<img width="429" height="24" alt="image" src="https://github.com/user-attachments/assets/3a722b71-42f1-4028-94ee-50ff5db3c56b" />
+<br>
   
-  <a href="https://github.com/skyelynwaddell/Vector0" target="_blank"><img style="border-radius:10px;" src="https://cdn.discordapp.com/attachments/1372035295503061003/1382845279790956706/TB_empty.png?ex=684ca286&is=684b5106&hm=66afb09fb883f9b906f5589f68302f0609548dfefda990100a32b27949d5bff3&" alt="Vector0" height="100">
+  <a href="https://github.com/skyelynwaddell/Vector0" target="_blank"><img style="border-radius:10px;" src="https://github.com/user-attachments/assets/fed25946-707c-45a1-aa92-8c7129e2d827" alt="Vector0" width="100" height="100">
 <br>Vector0
 </a>
 
@@ -33,7 +35,9 @@
   <div align="center">
 <hr/>
     
-<img src="https://cdn.discordapp.com/attachments/1372035295503061003/1382844171408248982/doom-small-tech-stack.png?ex=684ca17e&is=684b4ffe&hm=c90636062121ed66f16cdad56f2d864563117bc6c48a3e4537575ccce217cefe&"> <br>
+
+<img width="225" height="24" alt="image" src="https://github.com/user-attachments/assets/a998d75b-938d-40cf-b41c-feb27361a4e5" />
+ <br>
 
 <table align="center">
   <tr>
@@ -93,13 +97,17 @@
 <hr/>
 <div align="center">
 
-<img src="https://cdn.discordapp.com/attachments/1372035295503061003/1382844171144134747/doom-small-education.png?ex=684ca17e&is=684b4ffe&hm=a996f60295bfc1a4630d8e3104b6ee0715a66e80b7d13ab421b77f03c9f75f04&"> <br>
+
+<img width="204" height="24" alt="image" src="https://github.com/user-attachments/assets/a89a2de3-1506-4cf3-b968-f8f4d236376f" />
+ <br>
 <h3>💻<a href="https://www.sait.ca/programs-and-courses/certificates/object-oriented-software-development" style="color:grey;">SAIT - Object Oriented Software Development</h3></a>
 <h3>🌐<a href="https://freecodecamp.org/certification/fcc1e1b3e48-8bf3-4182-aa35-f1289dd6feb6/responsive-web-design">FCC - Responsive Web Design</h3></a>
 
 <hr/>
 
-<img src="https://cdn.discordapp.com/attachments/1372035295503061003/1382844170879631360/doom-small-github-stats.png?ex=684ca17e&is=684b4ffe&hm=1aa2dce60da1b0382e7595133430eca1d8474408902c76ddc97f7f4acbb647d3&"> <br>
+
+<img width="258" height="24" alt="image" src="https://github.com/user-attachments/assets/fc6e1c8f-f040-44ca-88f9-d5c8021bf647" />
+ <br>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=skyelynwaddell&column=3&theme=dracula" alt="skyelynwaddell" /></a> </p>
 
@@ -111,7 +119,9 @@
 
 <hr/>
 
-<img src="https://cdn.discordapp.com/attachments/1372035295503061003/1382844170648948886/doom-small-connect-with-me.png?ex=684ca17e&is=684b4ffe&hm=9f8f6051b5e1b6f212c52dc03520be0930fb153d752931b9d7256e89d7676982&">
+
+<img width="330" height="24" alt="image" src="https://github.com/user-attachments/assets/c91a48cc-202a-474b-95ce-9451cbde2a63" />
+
 
 <div align="center" style="display:flex; flex-direction:column">
 
