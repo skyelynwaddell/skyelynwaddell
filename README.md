@@ -10,8 +10,7 @@
 <hr/>
   
 <img width="438" height="24" alt="image" src="https://github.com/user-attachments/assets/d307c8ec-22fc-45d8-b1b9-0ba13a4c5458" />
- <br>
-### I have worked on many projects of different genres, and this is my portfolio featuring my digital advents and creations.
+<h2>Welcome to my github featuring my digital advents and creations.</h2>
 
 <br>
 <p align="center"><a href="https://www.buymeacoffee.com/skyelynwaddell"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="skyelynwaddell" /></a></p>
