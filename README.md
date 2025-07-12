@@ -100,7 +100,7 @@
 
 <img width="204" height="24" alt="image" src="https://github.com/user-attachments/assets/a89a2de3-1506-4cf3-b968-f8f4d236376f" />
  <br>
-<h3>💻<a href="https://www.sait.ca/programs-and-courses/certificates/object-oriented-software-development" style="color:grey;">SAIT - Object Oriented Software Development</h3></a>
+<h3>💻<a href="https://www.sait.ca/programs-and-courses/certificates/object-oriented-software-development">SAIT - Object Oriented Software Development</h3></a>
 <h3>🌐<a href="https://freecodecamp.org/certification/fcc1e1b3e48-8bf3-4182-aa35-f1289dd6feb6/responsive-web-design">FCC - Responsive Web Design</h3></a>
 
 <hr/>
