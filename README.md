@@ -1,15 +1,15 @@
 <div style="display:flex; justify-content:center" align="center">
-<img src="https://github.com/user-attachments/assets/8f139730-089d-4091-ab33-bde108d0eff8" style="width: 100%; max-width: 250px;">
+<img src="https://github.com/user-attachments/assets/8f139730-089d-4091-ab33-bde108d0eff8" style="max-width:250px">
 </div>
 
 <br>
 <div style ="tc display:flex;" align="center">
-  <img  src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExMHVvazY4eXN5YzRmOWo0cnZ4d2s3dDYwdG9weGFwbnZodHBqYmUwZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/zTQQPJXn1j8Jy/giphy.gif" style="width: 100%;"/>
+  <img  src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExMHVvazY4eXN5YzRmOWo0cnZ4d2s3dDYwdG9weGFwbnZodHBqYmUwZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/zTQQPJXn1j8Jy/giphy.gif" style="max-width:250px"/>
 
 <br>
 <hr/>
   
-<img alt="image" src="https://github.com/user-attachments/assets/d307c8ec-22fc-45d8-b1b9-0ba13a4c5458" style="width: 100%; max-width: 250px;"/>
+<img alt="image" src="https://github.com/user-attachments/assets/d307c8ec-22fc-45d8-b1b9-0ba13a4c5458" style="max-width:250px"/>
 <h2>Welcome to my github featuring my digital advents and creations.</h2>
 
 <br>
@@ -19,7 +19,7 @@
 
 <div align="center">
 
-<img style="width:100%; max-width: 250px;" alt="image" src="https://github.com/user-attachments/assets/3a722b71-42f1-4028-94ee-50ff5db3c56b" />
+<img style="max-width:250px" alt="image" src="https://github.com/user-attachments/assets/3a722b71-42f1-4028-94ee-50ff5db3c56b" />
 <br>
   
   <a href="https://github.com/skyelynwaddell/Vector0" target="_blank"><img style="border-radius:10px;" src="https://github.com/user-attachments/assets/fed25946-707c-45a1-aa92-8c7129e2d827" alt="Vector0" width="100" height="100">
