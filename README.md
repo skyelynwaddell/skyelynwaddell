@@ -35,7 +35,7 @@
 <hr/>
     
 
-<img style="width:100%; max-width: 250px;" alt="image" src="https://github.com/user-attachments/assets/a998d75b-938d-40cf-b41c-feb27361a4e5" />
+<img style="max-width: 250px;" alt="image" src="https://github.com/user-attachments/assets/a998d75b-938d-40cf-b41c-feb27361a4e5" />
  <br>
 
 <table align="center">
@@ -97,7 +97,7 @@
 <div align="center">
 
 
-<img style="width:100%; max-width: 250px;" alt="image" src="https://github.com/user-attachments/assets/a89a2de3-1506-4cf3-b968-f8f4d236376f" />
+<img style="max-width: 250px;" alt="image" src="https://github.com/user-attachments/assets/a89a2de3-1506-4cf3-b968-f8f4d236376f" />
  <br>
 <h3>💻<a href="https://www.sait.ca/programs-and-courses/certificates/object-oriented-software-development">SAIT - Object Oriented Software Development</h3></a>
 <h3>🌐<a href="https://freecodecamp.org/certification/fcc1e1b3e48-8bf3-4182-aa35-f1289dd6feb6/responsive-web-design">FCC - Responsive Web Design</h3></a>
@@ -105,21 +105,21 @@
 <hr/>
 
 
-<img style="width:100%; max-width: 250px;" alt="image" src="https://github.com/user-attachments/assets/fc6e1c8f-f040-44ca-88f9-d5c8021bf647" />
+<img style="max-width: 250px;" alt="image" src="https://github.com/user-attachments/assets/fc6e1c8f-f040-44ca-88f9-d5c8021bf647" />
  <br>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=skyelynwaddell&column=3&theme=dracula" alt="skyelynwaddell" style="width:100%; max-width: 250px;"/></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=skyelynwaddell&column=3&theme=dracula" alt="skyelynwaddell" style="max-width: 250px;"/></a> </p>
 
-<img style="width:100%; max-width: 250px;" src="https://github-readme-stats-beryl-theta-70.vercel.app/api/?username=SKYELYNWADDELL&theme=dracula"/>
+<img style="max-width: 250px;" src="https://github-readme-stats-beryl-theta-70.vercel.app/api/?username=SKYELYNWADDELL&theme=dracula"/>
 
-<p style="width:100%; max-width: 250px;" align="center"><img align="center" style="width:100%; max-width: 250px;" src="https://github-readme-streak-stats.herokuapp.com/?user=skyelynwaddell&theme=dracula" alt="skyelynwaddell" /></p>
+<p align="center"><img align="center" style="max-width: 250px;" src="https://github-readme-streak-stats.herokuapp.com/?user=skyelynwaddell&theme=dracula" alt="skyelynwaddell" /></p>
 
-<img style="width:100%; max-width: 250px;" src="https://github-readme-stats-beryl-theta-70.vercel.app/api/top-langs/?username=SKYELYNWADDELL&hide=DIGITAL%20Command%20Language,c,yacc,makefile,assembly,GLSL,Handlebars,Awk,Wren,Fennel,Moon,digitalcommandlanguage,moonscript,squirrel&langs_count=100&theme=dracula"/>
+<img style="max-width: 250px;" src="https://github-readme-stats-beryl-theta-70.vercel.app/api/top-langs/?username=SKYELYNWADDELL&hide=DIGITAL%20Command%20Language,c,yacc,makefile,assembly,GLSL,Handlebars,Awk,Wren,Fennel,Moon,digitalcommandlanguage,moonscript,squirrel&langs_count=100&theme=dracula"/>
 
 <hr/>
 
 
-<img style="width:100%; max-width: 250px;" alt="image" src="https://github.com/user-attachments/assets/c91a48cc-202a-474b-95ce-9451cbde2a63" />
+<img style="max-width: 250px;" alt="image" src="https://github.com/user-attachments/assets/c91a48cc-202a-474b-95ce-9451cbde2a63" />
 
 
 <div align="center" style="display:flex; flex-direction:column">
@@ -127,7 +127,7 @@
 <br>
 
 <div align="center" style="display:inline-block;flex-wrap:nowrap";>
-<img src="https://media.tenor.com/BzMSfXg3bMcAAAAd/medusa-fgo.gif" style="width:100%; max-width: 250px;"/>
+<img src="https://media.tenor.com/BzMSfXg3bMcAAAAd/medusa-fgo.gif" style="max-width: 250px;"/>
 
 
 </div>
@@ -159,6 +159,6 @@
 <br>
 
 My grandfather, and fathers first program.<br>
-<img src="https://bbsimg.ngfiles.com/7/24609000/ngbbs5178926668a42.jpg" style="width:100%; max-width: 250px;"/>
+<img src="https://bbsimg.ngfiles.com/7/24609000/ngbbs5178926668a42.jpg" style="max-width: 250px;"/>
 
 
